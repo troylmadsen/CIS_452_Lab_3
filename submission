@@ -1,0 +1,24 @@
+Script started on 2018-09-13 16:15:24-04:00
+]0;madsentr@eos04:~/CIS_452/projects/3[madsentr@eos04 3]$ make run
+clang -c -o ipc.o -Wall ipc.c
+clang -o ipc -Wall ipc.o
+./ipc
+Made baby #20600
+Waiting...	Received a SIGUSER1 signal.
+Waiting...	Received a SIGUSER2 signal.
+Waiting...	Received a SIGUSER2 signal.
+Waiting...	Received a SIGUSER1 signal.
+Waiting...	Received a SIGUSER2 signal.
+Waiting...	Received a SIGUSER2 signal.
+Waiting...	Received a SIGUSER2 signal.
+Waiting...	Received a SIGUSER1 signal.
+Waiting...	Received a SIGUSER1 signal.
+Waiting...	Received a SIGUSER1 signal.
+Waiting...	Received a SIGUSER1 signal.
+Waiting...	Received a SIGUSER2 signal.
+Waiting...	Received a SIGUSER1 signal.
+Waiting...	^C received. Closing "gracefully" *stab stab*
+
+]0;madsentr@eos04:~/CIS_452/projects/3[madsentr@eos04 3]$ exit
+
+Script done on 2018-09-13 16:16:08-04:00
